@@ -1,6 +1,9 @@
 {
-    "bg": "https://i.imgur.com/BQAMCtx.jpg",
-    "title": "Quiz One Piece",
+    "bg": "https://i.imgur.com/p8ualwB.jpg",
+    "imageCongratulations": "https://i.imgur.com/7emBOPD.jpg",
+    "icon": "https://i.imgur.com/ndu6pfe.png",
+    "title": "ONE PIECE",
+    "gifLoading": "https://media.giphy.com/media/116n6kcHaFbw3e/giphy.gif",
     "description": "Teste os seus conhecimentos sobre One Piece ",
     "questions": [
       {
@@ -31,10 +34,11 @@
     ],
     "theme": {
       "colors": {
-        "primary": "#2E1A47",
+        "primary": "#0086c3",
         "secondary": "#29b6f6",
-        "mainBg": "#171B35",
+        "mainBg": "transparent",
         "contrastText": "#FFFFFF",
+        "contrastTextButton": "#003c8f",
         "wrong": "#FF5722",
         "success": "#4CAF50"
       },
