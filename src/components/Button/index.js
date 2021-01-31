@@ -14,12 +14,8 @@ const Button = styled.button`
   outline: 0;
   transition: .3s;
   cursor: pointer;
-  &:hover,
-  &:focus {
-    opacity: .5;
-  }
   &:disabled {
-    background-color: #979797;
+    opacity: .5;
     cursor: not-allowed;
   }
 `;

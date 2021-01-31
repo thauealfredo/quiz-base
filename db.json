@@ -35,7 +35,8 @@
     "theme": {
       "colors": {
         "primary": "#0086c3",
-        "secondary": "#29b6f6",
+        "secondary": "#ffb74d",
+        "tertiary": "#f3eaec",
         "mainBg": "transparent",
         "contrastText": "#FFFFFF",
         "contrastTextButton": "#003c8f",

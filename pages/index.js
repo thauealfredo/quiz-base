@@ -1,8 +1,7 @@
 import { useState } from 'react';
 import { useRouter } from 'next/router';
-import styled from 'styled-components';
 
-import config from '../config.json';
+import db from '../db.json';
 import QuizBackground from '../src/components/Quiz/QuizBackground';
 import QuizLogo from '../src/components/Quiz/QuizLogo';
 import Widget from '../src/components/Widget';
@@ -23,15 +22,15 @@ export default function Home() {
   };
 
   return (
-    <QuizBackground backgroundImage={config.bg}>
+    <QuizBackground backgroundImage={db.bg}>
       <QuizContainer>
         <QuizLogo />
         <Widget>
           <Widget.Header>
-            <h1>{config.title}</h1>
+            <h1>{db.title}</h1>
           </Widget.Header>
           <Widget.Content>
-            <p>{config.description}</p>
+            <p>{db.description}</p>
             <form onSubmit={(e) => sendName(e)}>
               <Input
                 onChange={(e) => setName(e.target.value)}
