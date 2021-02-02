@@ -13,7 +13,16 @@ const GlobalStyle = createGlobalStyle`
     display: flex;
     flex-direction: column;
     font-family: 'Lato', sans-serif;
-    // Deixa branco no começo
+    ::-webkit-scrollbar {
+        width: 3px;
+    };
+    ::-webkit-scrollbar-thumb:vertical {
+     border-radius:20px;
+     background-color:  ${({ theme }) => theme.colors.primary};
+  };
+  ::-webkit-scrollbar-track-piece {
+    background-color: aliceblue;
+    }
     color: ${({ theme }) => theme.colors.contrastText};
   }
   html, body {
