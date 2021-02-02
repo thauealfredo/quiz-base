@@ -1,36 +1,154 @@
 {
     "bg": "https://i.imgur.com/p8ualwB.jpg",
-    "imageCongratulations": "https://i.imgur.com/7emBOPD.jpg",
     "icon": "https://i.imgur.com/ndu6pfe.png",
     "title": "ONE PIECE",
     "gifLoading": "https://media.giphy.com/media/116n6kcHaFbw3e/giphy.gif",
     "description": "Teste os seus conhecimentos sobre One Piece ",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
+        "image": "https://i.imgur.com/ytfAZm9.jpg",
+        "title": "Com quantos anos luffy saiu para o mar ?",
         "description": "Essa é pra aquecer",
-        "answer": 2,
+        "answer": 1,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "17",
+          "18",
+          "20",
+          "21"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
+        "image": "https://i.imgur.com/ytfAZm9.jpg",
+        "title": "Como shanks perdeu seu braço?",
+        "description": "Aquecendo ainda",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "mordida do rei do mar",
+           "luta com barba branca",
+           "testou a sorte contra a maldição da espada",
+           "nenhuma"
+        ]
+      },
+      {
+        "image": "https://i.imgur.com/ytfAZm9.jpg",
+        "title": "Porque o Teach matou seu comandante?",
+        "description": "Esquentando",
+        "answer": 3,
+        "alternatives": [
+           "para virar shichibukai",
+           "vingança pelo seu pai",
+           "para roubar a fruta Gura Gura no Mi",
+           "nenhuma"
+        ]
+      },
+      {
+        "image": "https://i.imgur.com/ytfAZm9.jpg",
+        "title": "Uma pessoa morre quando...",
+        "description": "Esquentando",
+        "answer": 1,
+        "alternatives": [
+           "o coração para de bater",
+           "é esquecida",
+           "toma uma sopa envenenada",
+           "fica muito velho"
+        ]
+      },
+      {
+        "image": "https://i.imgur.com/ytfAZm9.jpg",
+        "title": "Quantos Red Poneglyphs Nico Robin ja leu atualmente?",
+        "description": "Quentinho",
+        "answer": 0,
+        "alternatives": [
+           "2",
+           "3",
+           "1",
+           "nenhuma"
+        ]
+      },
+      {
+        "image": "https://i.imgur.com/ytfAZm9.jpg",
+        "title": "Qual o nome das armas de Mihawk?",
+        "description": "",
+        "answer": 2,
+        "alternatives": [
+           "Yoru e Sandai Kitetsu",
+           "Yoru e Zangetsu",
+           "Yoru e Kogatana",
+           "Yoru e Kanihama"
+        ]
+      },
+      {
+        "image": "https://i.imgur.com/ytfAZm9.jpg",
+        "title": "Qual o 6° membro a entrar no bando?",
+        "description": "",
+        "answer": 1,
+        "alternatives": [
+           "Franky",
+           "Chopper",
+           "Robin",
+           "Brook"
+        ]
+      },
+      {
+        "image": "https://i.imgur.com/ytfAZm9.jpg",
+        "title": "Quantos segundos Katakuri enxerga no futuro?",
+        "description": "Ta quase queimando",
+        "answer": 5,
+        "alternatives": [
+           "1s",
+           "1.5s",
+           "2.5s",
+           "3s",
+           "4s",
+           "5s"
+        ]
+      },
+      {
+        "image": "https://i.imgur.com/ytfAZm9.jpg",
+        "title": "Qual dia comemorou 20 anos da obra?",
+        "description": "Ta quase queimando",
+        "answer": 0,
+        "alternatives": [
+           "20 de outubro de 2019",
+           "20 de julho de 2019",
+           "20 de agosto de 2019",
+           "19 de março de 2019",
+           "01 de abril de 2019",
+           "29 de fevereiro de 2019"
+        ]
+      },
+      {
+        "image": "https://i.imgur.com/ytfAZm9.jpg",
+        "title": "Por qual motivo o Shiryu foi preso em Impel Down?",
+        "description": "Queimou",
+        "answer": 2,
+        "alternatives": [
+           "tentou matar Magellan",
+           "matou um tenryubito",
+           "pela crueldade com os presos",
+           "afundou um navio da marinha de escolta do reverie",
+           "arrancou o coração de 100 marinheiros",
+           "queimou uma cidade no east blue"
+        ]
+      },
+      {
+        "image": "https://i.imgur.com/ytfAZm9.jpg",
+        "title": "Por qual motivo luffy voltou a Marineford após a guerra??",
+        "description": "Bônus",
+        "answer": 1,
+        "alternatives": [
+           "para matar Akainu",
+           "mostar para a imprensa sua tattoagem",
+           "declarar o começo de uma nova era",
+           "realizar o sonho de badalar o sino",
+           "pedir treinamento para o Rayleigh"
         ]
       }
     ],
     "external": [
-      ""
+      "https://imersao-react-nextjs-git-main.matheusbronca.vercel.app/",
+      "https://narutoquiz-base.vitor-kb.vercel.app/",
+      "https://universe-quiz.andersonalexdurante.vercel.app/"
     ],
     "theme": {
       "colors": {
